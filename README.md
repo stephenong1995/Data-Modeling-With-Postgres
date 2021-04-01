@@ -1,5 +1,4 @@
-# Data-Modeling-With-Postgres
-
+# Project: Data Modeling with Postgres
 
 A startup named Sparkify wants to analyze user activities using their song and user data. 
 The data given is in JSON files. Because of the complexity, we decided to create an ETL Pipeline and load user and song data to a Postgres database. 
